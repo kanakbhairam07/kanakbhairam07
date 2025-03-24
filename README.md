@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanak Bhairam</h1>
 <h3 align="center">Tech enthusiast passionate about, web development, machine learning and artificial intelligence. Currently working on a Web Application Firewall (WAF) project, scalable tech solutions and innovative startups.</h3>
 
-- 🔭 I’m currently working on **Web Application Firewall (WAF) project**
+- 🔭 I’m currently working on **Speech to text and text to speech converter**
 
 - 🌱 I’m currently learning **Spring Boot**
 
